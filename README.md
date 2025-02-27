@@ -27,5 +27,6 @@ The project showcases key **OOP principles** such as **Encapsulation, Inheritanc
 
 1. **Clone the repository**  
    ```bash
+   
    git clone https://github.com/shakilahamedriaz/Store-Cart-System.git
    cd Store-Cart-System
